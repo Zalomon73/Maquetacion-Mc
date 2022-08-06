@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box; 
+}
+.azul{
+    background-color: blue;
+}
+.aqua{
+    background-color: aqua;
+}
+.boton{
+    background-color: yellow;
+}
+.altura2 {
+    height: 150px;
+}
+.verde {
+    background-color: green;
+}
+.altura1 {
+    height: 100px;
+}
+.altura3 {
+    height: 400px;
+}
+.altura4 {
+    height: 50px;
+}
+.altura5 {
+    height: 300px;
+}
